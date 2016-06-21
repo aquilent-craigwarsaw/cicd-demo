@@ -1,2 +1,2 @@
 FROM jekyll/jekyll
-ADD site /srv/jekyll-cew
+ADD site /srv/jekyll
